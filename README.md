@@ -4,10 +4,10 @@ This research intent to observe how agentic AI giving a recommendation toward st
 
 ## License
 
-- **Code**: [Apache 2.0](LICENSE) — with patent protection
+- **Code**: [Apache 2.0](LICENSE) — with patent protection [![LICENSE](https://img.shields.io/badge/license-Apache--2.0-blue?logo=apache)](https://github.com/IvorySQL/IvorySQL/blob/master/LICENSE)
 - **Research & Documentation**: [CC BY-NC 4.0](LICENSE-DOCS) — non-commercial academic use only
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
